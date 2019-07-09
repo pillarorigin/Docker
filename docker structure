@@ -1,0 +1,8 @@
+Dockhub(Registry)
+
+Image(tar archive)
+
+Container(up, exits, delete)
+
+Daemon (network, volume)
+
